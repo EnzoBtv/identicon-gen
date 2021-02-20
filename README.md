@@ -1,6 +1,6 @@
 # Identicon
 
-Identicon is a service for generating Identity Icons based on a string
+Identicon is a service for generating Identity Icons based on a string.\n
 Generated Images are saved to the User Computer on the project folder
 
 ## Table of Contents
