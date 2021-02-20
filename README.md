@@ -36,4 +36,7 @@ Identicon.main("some_string_to_generate_identicon")
 And then an image will be created in your project folder with the specified name
 
 ## Demo
-[![GRAPHIC1](https://imgur.com/wVSSIuR)]()
+```elixir
+Identicon.main("EnzoBtv")
+```
+![GRAPHIC1](https://i.imgur.com/wVSSIuR.png)]()
